@@ -1,0 +1,1 @@
+(self.webpackChunkdev_portal=self.webpackChunkdev_portal||[]).push([[735],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hello TDEX!","permalink":"/blog/hello-world"}]}')}}]);
